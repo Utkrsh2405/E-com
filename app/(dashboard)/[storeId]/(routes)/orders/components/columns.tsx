@@ -2,9 +2,7 @@
 
 import { ColumnDef } from "@tanstack/react-table"
 
-import { CellAction } from "./cell-action"
 
-import  Image  from "next/image"
 
 export type OrderColumn = {
   id: string
